@@ -1,5 +1,3 @@
-random
-string
-tkinter
-json
+tk
+simplejson
 pyperclip
