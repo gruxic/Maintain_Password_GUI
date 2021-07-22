@@ -8,7 +8,7 @@ A **python** based GUI for storing and retrieving passwords and IDs stored in th
 
 First, download the zip file containing the code in this repository. Next, open command line in the directory in which the `main.py` is present and run the following line:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 Once all libraries have been installed, run the `main.py` file to start the application.
 
     python main.py
