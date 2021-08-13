@@ -21,3 +21,6 @@ Once all libraries have been installed, run the `main.py` file to start the appl
 ![](https://github.com/gruxic/Maintain_Password_GUI/blob/main/images/error2.JPG)
 
 Made by Gurujeet Shetty.
+[![linkedin](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gzr)
+[![gmail](https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gruxic@gmail.com)
+
